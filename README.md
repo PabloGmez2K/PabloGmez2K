@@ -1,16 +1,14 @@
-## Hi there 👋
+# Pablo Gómez
 
-<!--
-**PabloGmez2K/PabloGmez2K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical AI-first systems for real businesses, operations and ecommerce.
 
-Here are some ideas to get you started:
+Currently working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lafábrica** — an operating system for AI-assisted software development
+- **Catenaccio Vintage** — ecommerce + operational backoffice for vintage football shirts
+- **Bijuymoda Suite** — internal tools and automation for B2B wholesale ecommerce
+- **Radar Aperturas** — structured discovery and business intelligence workflows
+
+## Focus
+
+AI agents · Operational software · Ecommerce · Next.js · Supabase · WordPress/WooCommerce · Automation
